@@ -1,4 +1,4 @@
-# digital-signal-filter
+# Digital Signal Filter
 This is a digital signal filter written in VHDL for a Basys3 fpga board, and interfaced through a simple Java program.
 
 ## How to use:
@@ -9,7 +9,7 @@ This is a digital signal filter written in VHDL for a Basys3 fpga board, and int
 
 ### The filters:
 _Low pass FIR filter:_
-[filter1](https://github.com/DudasDorian/digital-signal-filter/blob/main/filter1.png)
+![filter1](https://github.com/DudasDorian/digital-signal-filter/blob/main/filter1.png)
 
 _Binary filter (0 when input signal <0; 127 when input signal >=0)_
-[filter2](https://github.com/DudasDorian/digital-signal-filter/blob/main/filter2.png)
+![filter2](https://github.com/DudasDorian/digital-signal-filter/blob/main/filter2.png)
